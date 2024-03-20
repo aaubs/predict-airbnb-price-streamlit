@@ -12,7 +12,7 @@ import streamlit as st
 from streamlit_shap import st_shap # wrapper to display nice shap viz in the app
 
 st.set_page_config(
-    page_title="Airbnb Price Prediction",
+    page_title="Airbnb Price Prediction 🫠",
     page_icon="💸")
 
 st.title('Predict Airbnb Prices in CPH')
